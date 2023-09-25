@@ -1,6 +1,6 @@
 
 # DDOS Detection
-
+![alt text](DataSet/How-Does-a-DDoS-Attack-Work.png)
 ## Issue description 
 **Distributed Denial of service (DDoS)**, attacks users from accessing the network and makes services unavailable or only partially available. The attacker floods the targeted machines or resources with excessive requests. The victim's incoming traffic originates from many different sources. Attackers use many (remotely) controlled computers to attack the victim. 
 ## Machine learning (ML) technique
